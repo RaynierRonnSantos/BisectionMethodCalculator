@@ -1,0 +1,34 @@
+# Compiled executables
+
+*.exe
+
+# Object files
+
+*.o
+*.obj
+
+# Debug files
+
+*.pdb
+*.ilk
+
+# Visual Studio Code
+
+.vscode/
+
+# Build directories
+
+build/
+bin/
+
+# Temporary files
+
+*.tmp
+*.log
+*.bak
+
+# OS-generated files
+
+Thumbs.db
+Desktop.ini
+.DS_Store
